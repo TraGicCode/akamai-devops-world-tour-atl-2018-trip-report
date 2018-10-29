@@ -40,6 +40,8 @@ I _also_ wanted to see how others are implementing these cutting-edge technologi
         + Luna portal
         + CLI
         + Rest API
++ World Tour Recap
+    + https://developer.akamai.com/akamai-developer-world-tour/recap?utm_source=mkto&utm_medium=email&utm_campaign=ME11513&mkt_tok=eyJpIjoiWW1Rd05UQTBNRFF6WVRNdyIsInQiOiJOd2E5ekNKYkc4citEeU1SeWdMMmY0RDdmTFB0YnZad2piVzFibmcrbnpyU3IyUlkxSFV5SUx1REVFUU8zNnJLY25nZUxJa0VOUVhvbWRVV2k1MkZLMGRFUEJ5V25TemJTYlR0ZkNSV1QzeVF5V2xHRUd4dWR2WUlhMHdKdDBBZiJ9
 
 ## Conference Action Items
 
