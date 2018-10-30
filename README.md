@@ -17,7 +17,7 @@ I wanted to attend this primarily to better understand how we can transition our
 
 Since this devops movement is still new and rapidly evolving for akamai I anticipate gaining a better understanding of the maturity level of their tools for consumption in practice.
 
-I _also_ wanted to see how others are implementing these cutting-edge technologies in the enterprise, especially from an automation or management perspective.
+I also wanted to see how others are implementing these cutting-edge technologies in the enterprise, especially from an automation or management perspective.
 
 ## Conference Takeaways
 
